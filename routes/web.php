@@ -54,7 +54,7 @@ Route::get('/about', [AboutController::class, 'index']);
 
 Route::get('/asquare-events',[EventscommunicationsController::class, 'index']);
 Route::get('/filmsentertaiment',[FilmsController::class, 'index']);
-Route::get('/kolkataphotos',[KolkataPhotosController::class, 'index']);
+Route::get('/asquare-photoz',[KolkataPhotosController::class, 'index']);
 Route::get('/kolkatastudios',[KolkataStudioController::class, 'index']);
 Route::get('/asquare-wedding',[WeddingController::class, 'index']);
 Route::get('/digital-marketing',[DigitalMarketingController::class, 'index']);

@@ -7426,7 +7426,7 @@ body.inter-center {
 }
 
 .services-tab .serv-tab-link .item-link {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 500;
   cursor: pointer;
 }
@@ -10734,3 +10734,10 @@ header.in-box {
 
 
 
+#as-bg-line{
+  background-image: url(assets/imgs/patterns/bg-lines-1.svg);
+}
+
+#hi-as{
+  color: #ff004c;
+}
