@@ -1,7 +1,3 @@
-<!-- ==================== Start Navbar ==================== -->
-
-
-<!-- ==================== End Navbar ==================== -->
 
 <div id="navi" class="topnav">
     <div class="container">
@@ -53,22 +49,22 @@
                             <div class="sub-menu">
                                 <ul>
                                     <li>
-                                        <a href="page-about.html" class="sub-link">Asquare Events & Communications</a>
+                                        <a href="{{('/asquare-events')}}" class="sub-link">Asquare Events & Communications</a>
                                     </li>
                                     <li>
-                                        <a href="page-services.html" class="sub-link">Asquare Wedding</a>
+                                        <a href="{{('/asquare-wedding')}}" class="sub-link">Asquare Wedding</a>
                                     </li>
                                     <li>
-                                        <a href="page-team.html" class="sub-link">Asquare Films & Entertainment</a>
+                                        <a href="{{('/filmsentertaiment')}}" class="sub-link">Asquare Films & Entertainment</a>
                                     </li>
                                     <li>
-                                        <a href="page-team.html" class="sub-link">Asquare Photoz</a>
+                                        <a href="{{('/asquare-photoz')}}" class="sub-link">Asquare Photoz</a>
                                     </li>
                                     <li>
-                                        <a href="page-contact.html" class="sub-link">Kolkata Studios</a>
+                                        <a href="{{('/kolkata-studios')}}" class="sub-link">Kolkata Studios</a>
                                     </li>
                                     <li>
-                                        <a href="page-contact.html" class="sub-link">Asquare Digital</a>
+                                        <a href="{{url('asquare-digital')}}" class="sub-link">Asquare Digital</a>
                                     </li>
                                 </ul>
                             </div>

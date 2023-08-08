@@ -5,21 +5,21 @@
 
 <section class="about-intro section-padding">
     <div class="container">
-       
-        <div class="row justify-content-center" >
+
+        <div class="row justify-content-center">
             <div class="col-lg-6 rest">
                 <div class="imgs md-mb50">
                     <div class="img1">
                         <div class="o-hidden">
                             <div class="imago wow">
-                                <img src="assets/imgs/about/01.jpg" alt="">
+                                <img src="{{asset('assets/imgs/about/01.jpg')}}" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="img2">
                         <div class="o-hidden">
                             <div class="imago wow">
-                                <img src="assets/imgs/about/1.jpg" alt="">
+                                <img src="{{asset('assets/imgs/about/1.jpg')}}" alt="">
                             </div>
                         </div>
                     </div>
@@ -34,7 +34,7 @@
                         <div class="item-flex d-flex align-items-center mb-50 wow fadeIn" data-wow-delay=".4s">
                             <div>
                                 <div class="icon-img-50">
-                                    <img src="assets/imgs/serv-icons/0.png" alt="">
+                                    <img src="{{asset('assets/imgs/serv-icons/0.png')}}" alt="">
                                 </div>
                             </div>
                             <div class="cont ml-30">
@@ -46,7 +46,7 @@
                         <div class="item-flex d-flex align-items-center wow fadeIn" data-wow-delay=".8s">
                             <div>
                                 <div class="icon-img-50">
-                                    <img src="assets/imgs/serv-icons/1.png" alt="">
+                                    <img src="{{asset('assets/imgs/serv-icons/1.png')}}" alt="">
                                 </div>
                             </div>
                             <div class="cont ml-30">
@@ -66,7 +66,7 @@
 <section class="blog pb-0">
     <div class="container">
         <div class="main-post">
-            <div class="item pb-60">              
+            <div class="item pb-60">
 
                 <div class="row justify-content-center">
                     <div class="col-lg-10">
@@ -77,10 +77,10 @@
                             </h6>
                         </div>
                     </div>
-                </div>                
-            </div>           
+                </div>
+            </div>
         </div>
-    </div>    
+    </div>
 </section>
 
 
@@ -91,7 +91,7 @@
         <div class="col-12">
             <div class="caption">
                 <h6 class="sub-title">Our Services</h6>
-                <h1>Get One Stop Solutions</h1>              
+                <h1>Get One Stop Solutions</h1>
             </div>
         </div>
     </div>
@@ -100,29 +100,29 @@
 
 <section class="portfolio section-padding pb-100">
     <div class="container-xxl">
-            <div class="gallery metro text-center">
+        <div class="gallery metro text-center">
             <div class="row">
                 <div class="col-lg-3 col-md-6 items web info-overlay height-1 mb-30">
                     <div class="item-img o-hidden">
-                       
-                            <div class="inner wow">
-                                <img src="assets/imgs/works/grid/1.jpg" alt="image">
-                            </div>
-                       
+
+                        <div class="inner wow">
+                            <img src="{{asset('assets/imgs/works/grid/1.jpg')}}" alt="image">
+                        </div>
+
                         <div class="info">
                             <h6>Pre Wedding Shoot</h6>
-                           
+
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-6 items app info-overlay height-2 mb-30">
                     <div class="item-img o-hidden">
-                     
-                            <div class="inner wow">
-                                <img src="assets/imgs/works/grid/10.jpg" alt="image">
-                            </div>
-                      
+
+                        <div class="inner wow">
+                            <img src="{{asset('assets/imgs/works/grid/10.jpg')}}" alt="image">
+                        </div>
+
                         <div class="info">
                             <h6>Vanue Booking</h6>
                         </div>
@@ -131,88 +131,88 @@
 
                 <div class="col-lg-6 col-md-6 items brand info-overlay height-1 mb-30">
                     <div class="item-img o-hidden">
-                      
-                            <div class="inner wow">
-                                <img src="assets/imgs/works/grid/3.jpg" alt="image">
-                            </div>
-                       
+
+                        <div class="inner wow">
+                            <img src="{{asset('assets/imgs/works/grid/3.jpg')}}" alt="image">
+                        </div>
+
                         <div class="info">
                             <h6>Decoration / Catering </h6>
-                           
+
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-6 items web info-overlay height-2 mb-30">
                     <div class="item-img o-hidden">
-                     
-                            <div class="inner wow">
-                                <img src="assets/imgs/works/grid/4.jpg" alt="image">
-                            </div>
-                    
+
+                        <div class="inner wow">
+                            <img src="{{asset('assets/imgs/works/grid/4.jpg')}}" alt="image">
+                        </div>
+
                         <div class="info">
                             <h6>Haldi / Mehendi</h6>
-                      
+
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-6 col-md-6 items brand info-overlay height-1 mb-30">
                     <div class="item-img o-hidden">
-                       
-                            <div class="inner wow">
-                                <img src="assets/imgs/works/grid/6.jpg" alt="image">
-                            </div>
-                      
+
+                        <div class="inner wow">
+                            <img src="{{asset('assets/imgs/works/grid/6.jpg')}}" alt="image">
+                        </div>
+
                         <div class="info">
                             <h6>Rituals</h6>
-                            
+
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-6 col-md-6 items app info-overlay height-2 mb-30">
                     <div class="item-img o-hidden">
-                       
-                            <div class="inner wow">
-                                <img src="assets/imgs/works/grid/5.jpg" alt="image">
-                            </div>
-                   
+
+                        <div class="inner wow">
+                            <img src="{{asset('assets/imgs/works/grid/5.jpg')}}" alt="image">
+                        </div>
+
                         <div class="info">
                             <h6>Barmala / Sangeet</h6>
-                          
+
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-6 items web info-overlay height-2 mb-30">
                     <div class="item-img o-hidden">
-                       
-                            <div class="inner wow">
-                                <img src="assets/imgs/works/grid/7.jpg" alt="image">
-                            </div>
-                      
+
+                        <div class="inner wow">
+                            <img src="{{asset('assets/imgs/works/grid/7.jpg')}}" alt="image">
+                        </div>
+
                         <div class="info">
                             <h6>Wedding Photography</h6>
-                           
+
                         </div>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-6 items brand info-overlay height-2 mb-30">
                     <div class="item-img o-hidden">
-                       
-                            <div class="inner wow">
-                                <img src="assets/imgs/works/grid/8.jpg" alt="image">
-                            </div>
-                      
+
+                        <div class="inner wow">
+                            <img src="{{asset('assets/imgs/works/grid/8.jpg')}}" alt="image">
+                        </div>
+
                         <div class="info">
                             <h6>Still & Video</h6>
-                           
+
                         </div>
                     </div>
                 </div>
-                
+
 
             </div>
 
@@ -237,7 +237,7 @@
     <div class="panel mt-30">
         <div class="item">
             <div class="img">
-                <img src="assets/imgs/portfolio/4/01.jpg" alt="">
+                <img src="{{asset('assets/imgs/portfolio/4/01.jpg')}}" alt="">
             </div>
             <div class="cont d-flex align-items-end">
                 <div>
@@ -255,7 +255,7 @@
     <div class="panel mt-30">
         <div class="item">
             <div class="img">
-                <img src="assets/imgs/portfolio/4/02.jpg" alt="">
+                <img src="{{asset('assets/imgs/portfolio/4/02.jpg')}}" alt="">
             </div>
             <div class="cont d-flex align-items-end">
                 <div>
@@ -273,7 +273,7 @@
     <div class="panel mt-30">
         <div class="item">
             <div class="img">
-                <img src="assets/imgs/portfolio/4/03.jpg" alt="">
+                <img src="{{asset('assets/imgs/portfolio/4/03.jpg')}}" alt="">
             </div>
             <div class="cont d-flex align-items-end">
                 <div>
@@ -291,7 +291,7 @@
     <div class="panel mt-30">
         <div class="item">
             <div class="img">
-                <img src="assets/imgs/portfolio/4/04.jpg" alt="">
+                <img src="{{asset('assets/imgs/portfolio/4/04.jpg')}}" alt="">
             </div>
             <div class="cont d-flex align-items-end">
                 <div>
@@ -309,7 +309,7 @@
     <div class="panel mt-30">
         <div class="item">
             <div class="img">
-                <img src="assets/imgs/portfolio/4/05.jpg" alt="">
+                <img src="{{asset('assets/imgs/portfolio/4/05.jpg')}}" alt="">
             </div>
             <div class="cont d-flex align-items-end">
                 <div>
@@ -327,7 +327,7 @@
     <div class="panel mt-30">
         <div class="item">
             <div class="img">
-                <img src="assets/imgs/portfolio/4/06.jpg" alt="">
+                <img src="{{asset('assets/imgs/portfolio/4/06.jpg')}}" alt="">
             </div>
             <div class="cont d-flex align-items-end">
                 <div>
@@ -341,7 +341,7 @@
             <a href="#0" class="link-overlay"></a>
         </div>
     </div>
-</section> 
+</section>
 
 
 @endsection

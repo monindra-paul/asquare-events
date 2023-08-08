@@ -8,6 +8,6 @@ use Illuminate\Http\Request;
 class DigitalMarketingController extends Controller
 {
     public function index(){
-        return view ('frontend.services.digital-marketing');
+        return view ('frontend.services.asquare-digital');
     }
 }

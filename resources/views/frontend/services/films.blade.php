@@ -8,10 +8,10 @@
             <div class="col-lg-5 valign md-mb50">
                 <div class="imgs mb-80">
                     <div class="img1">
-                        <img src="assets/imgs/arch/intro/sq1.jpg" alt="">
+                        <img src="{{asset('assets/imgs/arch/intro/sq1.jpg')}}" alt="">
                     </div>
                     <div class="img2">
-                        <img src="assets/imgs/asquare/fb/film/film4.jpg" alt="cc">
+                        <img src="{{asset('assets/imgs/asquare/fb/film/film4.jpg')}}" alt="cc">
                     </div>
                 </div>
             </div>
@@ -20,10 +20,10 @@
                     <div class="text">
                         <h3>Our film production team crafts cinematic experiences that transport you to captivating worlds and evoke a spectrum of emotions.</h3>
                     </div>
-                    
+
                 </div>
             </div>
-           
+
         </div>
     </div>
 </section>
@@ -52,7 +52,7 @@
                 <div class="item md-mb80">
                     <div class="o-hidden">
                         <div class="img imago wow">
-                            <img src="assets/imgs/portfolio/2/1.jpg" alt="">
+                            <img src="{{asset('assets/imgs/portfolio/2/1.jpg')}}" alt="">
                         </div>
                     </div>
                     <div class="cont mt-30 d-flex">
@@ -72,7 +72,7 @@
                         <div class="col-lg-8">
                             <div class="o-hidden">
                                 <div class="img imago wow">
-                                    <img src="assets/imgs/portfolio/2/3.jpg" alt="">
+                                    <img src="{{asset('assets/imgs/portfolio/2/3.jpg')}}" alt="">
                                 </div>
                             </div>
                             <div class="cont mt-30 d-flex">
@@ -94,7 +94,7 @@
                         <div class="col-lg-9">
                             <div class="o-hidden">
                                 <div class="img imago wow">
-                                    <img src="assets/imgs/portfolio/2/2.jpg" alt="">
+                                    <img src="{{asset('assets/imgs/portfolio/2/2.jpg')}}" alt="">
                                 </div>
                             </div>
                             <div class="cont mt-30 d-flex">
@@ -118,7 +118,7 @@
                         <div class="col-lg-9">
                             <div class="o-hidden">
                                 <div class="img imago wow">
-                                    <img src="assets/imgs/portfolio/2/4.jpg" alt="">
+                                    <img src="{{asset('assets/imgs/portfolio/2/4.jpg')}}" alt="">
                                 </div>
                             </div>
                             <div class="cont mt-30 d-flex">
@@ -154,20 +154,17 @@
                         </p>
                     </div>
                 </div>
-               
+
             </div>
             <div class="col-lg-5 offset-lg-1 valign">
                 <div class="exp-items full-width">
                     <div class="item d-flex pb-30 pt-30 mb-30 bord-thin-top bord-thin-bottom">
                         <div class="title">
                             <h6>Video Portfolios</h6>
-                         
                         </div>
                         <div class="date ml-auto text-right">
                             <span class="icon">
-                              
-                                    <i class="fas fa-arrow-right"></i>
-                               
+                                <i class="fas fa-arrow-right"></i>
                             </span>
                             <p class="fz-12">2014 - 2015</p>
                         </div>
@@ -175,13 +172,10 @@
                     <div class="item d-flex pb-30 mb-30 bord-thin-bottom">
                         <div class="title">
                             <h6>Music Albums</h6>
-                          
                         </div>
                         <div class="date ml-auto text-right">
                             <span class="icon">
-                             
-                                    <i class="fas fa-arrow-right"></i>
-                              
+                                <i class="fas fa-arrow-right"></i>
                             </span>
                             <p class="fz-12">2015 - 2019</p>
                         </div>
@@ -189,29 +183,14 @@
                     <div class="item d-flex pb-30 bord-thin-bottom">
                         <div class="title">
                             <h6>Short films</h6>
-                           
                         </div>
                         <div class="date ml-auto text-right">
                             <span class="icon">
-                                    <i class="fas fa-arrow-right"></i>                              
+                                <i class="fas fa-arrow-right"></i>
                             </span>
-                          
                         </div>
-                    </div>
-                    <div class="item d-flex pb-30 bord-thin-bottom">
-                        <div class="title">
-                            <h6>Events Creative</h6>
-                            
-                        </div>
-                        <div class="date ml-auto text-right">
-                            <span class="icon">
-                               
-                                    <i class="fas fa-arrow-right"></i>
-                              
-                            </span>
-                           
-                        </div>
-                    </div>
+                    </div>                   
+                    
                 </div>
             </div>
         </div>
@@ -243,7 +222,7 @@
                     <div class="item-img o-hidden">
                         <a href="project-details1.html" class="imago wow">
                             <div class="inner wow">
-                                <img src="assets/imgs/works/grid2/1.jpg" alt="image">
+                                <img src="{{asset('assets/imgs/works/grid2/1.jpg')}}" alt="image">
                             </div>
                         </a>
                         <div class="info">
@@ -262,7 +241,7 @@
                     <div class="item-img o-hidden">
                         <a href="project-details1.html" class="imago wow">
                             <div class="inner wow">
-                                <img src="assets/imgs/works/grid2/v1.jpg" alt="image">
+                                <img src="{{asset('assets/imgs/works/grid2/v1.jpg')}}" alt="image">
                             </div>
                         </a>
                         <div class="info">
@@ -281,7 +260,7 @@
                     <div class="item-img o-hidden">
                         <a href="project-details1.html" class="imago wow">
                             <div class="inner wow">
-                                <img src="assets/imgs/works/grid2/2.jpg" alt="image">
+                                <img src="{{asset('assets/imgs/works/grid2/2.jpg')}}" alt="image">
                             </div>
                         </a>
                         <div class="info">
@@ -300,7 +279,7 @@
                     <div class="item-img o-hidden">
                         <a href="project-details1.html" class="imago wow">
                             <div class="inner wow">
-                                <img src="assets/imgs/works/grid2/v2.jpg" alt="image">
+                                <img src="{{asset('assets/imgs/works/grid2/v2.jpg')}}" alt="image">
                             </div>
                         </a>
                         <div class="info">
@@ -319,7 +298,7 @@
                     <div class="item-img o-hidden">
                         <a href="project-details1.html" class="imago wow">
                             <div class="inner wow">
-                                <img src="assets/imgs/works/grid2/v3.jpg" alt="image">
+                                <img src="{{asset('assets/imgs/works/grid2/v3.jpg')}}" alt="image">
                             </div>
                         </a>
                         <div class="info">
@@ -338,7 +317,7 @@
                     <div class="item-img o-hidden">
                         <a href="project-details1.html" class="imago wow">
                             <div class="inner wow">
-                                <img src="assets/imgs/works/grid2/4.jpg" alt="image">
+                                <img src="{{asset('assets/imgs/works/grid2/4.jpg')}}" alt="image">
                             </div>
                         </a>
                         <div class="info">

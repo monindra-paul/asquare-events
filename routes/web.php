@@ -57,7 +57,7 @@ Route::get('/filmsentertaiment',[FilmsController::class, 'index']);
 Route::get('/asquare-photoz',[KolkataPhotosController::class, 'index']);
 Route::get('/kolkatastudios',[KolkataStudioController::class, 'index']);
 Route::get('/asquare-wedding',[WeddingController::class, 'index']);
-Route::get('/digital-marketing',[DigitalMarketingController::class, 'index']);
+Route::get('/asquare-digital',[DigitalMarketingController::class, 'index']);
 
 
 // Route::get('/dashboard', function () {

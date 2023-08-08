@@ -8,10 +8,10 @@
             <div class="col-lg-5 valign md-mb50">
                 <div class="imgs mb-80">
                     <div class="img1">
-                        <img src="assets/imgs/arch/intro/sq1.jpg" alt="">
+                        <img src="{{asset('assets/imgs/arch/intro/sq1.jpg')}}" alt="">
                     </div>
                     <div class="img2">
-                        <img src="assets/imgs/asquare/fb/film/film4.jpg" alt="cc">
+                        <img src="{{asset('assets/imgs/asquare/fb/film/film4.jpg')}}" alt="cc">
                     </div>
                 </div>
             </div>
@@ -72,7 +72,7 @@
                     <div class="item-img o-hidden">
                      
                             <div class="inner wow">
-                                <img src="assets/imgs/freelancer/works2/1.jpg" alt="image">
+                                <img src="{{asset('assets/imgs/freelancer/works2/1.jpg')}}" alt="image">
                             </div>
                         
                     </div>
@@ -87,7 +87,7 @@
                     <div class="item-img o-hidden">
                        
                             <div class="inner wow">
-                                <img src="assets/imgs/freelancer/works2/2.jpg" alt="image">
+                                <img src="{{asset('assets/imgs/freelancer/works2/2.jpg')}}" alt="image">
                             </div>
                       
                     </div>
@@ -101,7 +101,7 @@
                     <div class="item-img o-hidden">
                        
                             <div class="inner wow">
-                                <img src="assets/imgs/freelancer/works2/3.jpg" alt="image">
+                                <img src="{{asset('assets/imgs/freelancer/works2/3.jpg')}}" alt="image">
                             </div>
                         
                     </div>
@@ -115,7 +115,7 @@
                     <div class="item-img o-hidden">
                         
                             <div class="inner wow">
-                                <img src="assets/imgs/freelancer/works2/4.jpg" alt="image">
+                                <img src="{{asset('assets/imgs/freelancer/works2/4.jpg')}}" alt="image">
                             </div>
                        
                     </div>
@@ -129,7 +129,7 @@
                     <div class="item-img o-hidden">
                       
                             <div class="inner wow">
-                                <img src="assets/imgs/freelancer/works2/5.jpg" alt="image">
+                                <img src="{{asset('assets/imgs/freelancer/works2/5.jpg')}}" alt="image">
                             </div>
                       
                     </div>
@@ -143,7 +143,7 @@
                     <div class="item-img o-hidden">
                     
                             <div class="inner wow">
-                                <img src="assets/imgs/freelancer/works2/6.jpg" alt="image">
+                                <img src="{{asset('assets/imgs/freelancer/works2/6.jpg')}}" alt="image">
                             </div>
                       
                     </div>
@@ -262,29 +262,29 @@
                     <div class="tab-content current" id="tabs-1">
                         <div class="item">
                             <div class="img">
-                                <img src="assets/imgs/sass-img/serv/4.jpg" alt="">
+                                <img src="{{asset('assets/imgs/sass-img/serv/4.jpg')}}" alt="">
                             </div>
                             <div class="cont sub-bg">
                                 <div class="icon-img-60 mb-40">
-                                    <img src="assets/imgs/serv-icons/0.png" alt="">
+                                    <img src="{{asset('assets/imgs/serv-icons/0.png')}}" alt="">
                                 </div>
                                 <div class="text">
                                     <p>Asquare PhotoZ a newly established company, is dedicated to the art of capturing moments and preserving memories through the lens. With a passion for photography and a keen eye for detail, we strive to provide exceptional services that exceed expectations.</p>
                                 </div>
                                 
                                 <div class="bg-pattern bg-img"
-                                    data-background="assets/imgs/patterns/abstact-BG.png"></div>
+                                    data-background="{{asset('assets/imgs/patterns/abstact-BG.png')}}"></div>
                             </div>
                         </div>
                     </div>
                     <div class="tab-content" id="tabs-2">
                         <div class="item">
                             <div class="img">
-                                <img src="assets/imgs/sass-img/serv/2.jpg" alt="">
+                                <img src="{{asset('assets/imgs/sass-img/serv/2.jpg')}}" alt="">
                             </div>
                             <div class="cont sub-bg">
                                 <div class="icon-img-60 mb-40">
-                                    <img src="assets/imgs/serv-icons/1.png" alt="">
+                                    <img src="{{asset('assets/imgs/serv-icons/1.png')}}" alt="">
                                 </div>
                                 <div class="text">
                                     <p>Asquare PhotoZ a newly established company, is dedicated to the art of capturing moments and preserving memories through the lens. With a passion for photography and a keen eye for detail, we strive to provide exceptional services that exceed expectations.</p>
@@ -296,11 +296,11 @@
                     <div class="tab-content" id="tabs-3">
                         <div class="item">
                             <div class="img">
-                                <img src="assets/imgs/sass-img/serv/3.jpg" alt="">
+                                <img src="{{asset('assets/imgs/sass-img/serv/3.jpg')}}" alt="">
                             </div>
                             <div class="cont sub-bg">
                                 <div class="icon-img-60 mb-40">
-                                    <img src="assets/imgs/serv-icons/2.png" alt="">
+                                    <img src="{{asset('assets/imgs/serv-icons/2.png')}}" alt="">
                                 </div>
                                 <div class="text">
                                     <p>Asquare PhotoZ a newly established company, is dedicated to the art of capturing moments and preserving memories through the lens. With a passion for photography and a keen eye for detail, we strive to provide exceptional services that exceed expectations.</p>
@@ -346,7 +346,7 @@
                                 <div class="d-flex align-items-center">
                                     <div class="mr-80">
                                         <span class="icon-img-50">
-                                            <img src="assets/imgs/serv-icons/0.png" alt="">
+                                            <img src="{{asset('assets/imgs/serv-icons/0.png')}}" alt="">
                                         </span>
                                     </div>
                                     <div>
@@ -372,7 +372,7 @@
                                 <div class="d-flex align-items-center">
                                     <div class="mr-80">
                                         <span class="icon-img-50">
-                                            <img src="assets/imgs/serv-icons/1.png" alt="">
+                                            <img src="{{asset('assets/imgs/serv-icons/1.png')}}" alt="">
                                         </span>
                                     </div>
                                     <div>
@@ -405,7 +405,7 @@
                                 <div class="d-flex align-items-center">
                                     <div class="mr-80">
                                         <span class="icon-img-50">
-                                            <img src="assets/imgs/serv-icons/0.png" alt="">
+                                            <img src="{{asset('assets/imgs/serv-icons/0.png')}}" alt="">
                                         </span>
                                     </div>
                                     <div>
@@ -431,7 +431,7 @@
                                 <div class="d-flex align-items-center">
                                     <div class="mr-80">
                                         <span class="icon-img-50">
-                                            <img src="assets/imgs/serv-icons/1.png" alt="">
+                                            <img src="{{asset('assets/imgs/serv-icons/1.png')}}" alt="">
                                         </span>
                                     </div>
                                     <div>

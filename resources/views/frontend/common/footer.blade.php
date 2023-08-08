@@ -31,10 +31,10 @@
                         </div>
                         <div class="text">
                             <p class="mb-10">
-                                <a href="#">info@teamasquare.com</a>
+                                <a href="mailto:info@teamasquare.com">info@teamasquare.com</a>
                             </p>
                             <h5>
-                                <a href="#">+91 6290950790</a>
+                                <a href="tel:+916290950790">+91 6290950790</a>
                             </h5>
                         </div>
                     </div>
