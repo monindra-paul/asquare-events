@@ -1112,8 +1112,8 @@ img {
 
 .slide-har.st1 .box {
   position: relative;
-  -webkit-animation: slide-har 80s linear infinite;
-  animation: slide-har 80s linear infinite;
+  -webkit-animation: slide-har 20s linear infinite;
+  animation: slide-har 20s linear infinite;
 }
 
 .slide-har.st2 .box {
@@ -7944,7 +7944,7 @@ header.in-box {
   position: relative;
   overflow: hidden;
   width: 100%;
-  min-height: 100vh;
+  min-height: 95vh;
   padding: 80px 0;
 }
 

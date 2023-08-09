@@ -428,106 +428,77 @@
                             <div class="box">
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/asquare/clients/canara.jpg')}}" alt="rfuu">
+                                        <img src="{{asset('assets/imgs/asquare/c2/canara.png')}}" alt="rfuu">
                                     </a>
                                 </div>
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/asquare/clien')}}ts/canara.jpg" alt="">
+                                        <img src="{{asset('assets/imgs/asquare/c2/anchor.png')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/asquare/clients/canara.jpg')}}" alt="">
+                                        <img src="{{asset('assets/imgs/asquare/c2/andra-bank.png')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b4.png')}}" alt="">
+                                        <img src="{{asset('assets/imgs/asquare/c2/lalit.png')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b5.png')}}" alt="">
+                                        <img src="{{asset('assets/imgs/asquare/c2/zee.png')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b6.png')}}" alt="">
+                                        <img src="{{asset('assets/imgs/asquare/c2/tata-aia.png')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/asquare/clients/canara.jpg')}}" alt="">
+                                        <img src="{{asset('assets/imgs/asquare/c2/india-first.png')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b8.png')}}" alt="">
+                                        <img src="{{asset('assets/imgs/asquare/c2/max.png')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b4.png')}}" alt="">
+                                        <img src="{{asset('assets/imgs/asquare/c2/spencer.png')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b5.png')}}" alt="">
+                                        <img src="{{asset('assets/imgs/asquare/c2/success.png')}}" alt="">
                                     </a>
                                 </div>
                             </div>
                             <div class="box">
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b1.png')}}" alt="">
+                                        <img src="{{asset('assets/imgs/asquare/c2/kotak.png')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b2.png')}}" alt="">
+                                        <img src="{{asset('assets/imgs/asquare/c2/euro-kids.png')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b3.png')}}" alt="">
+                                        <img src="{{asset('assets/imgs/asquare/c2/zee.png')}}" alt="">
                                     </a>
                                 </div>
                                 <div class="item">
                                     <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b4.png')}}" alt="">
+                                        <img src="{{asset('assets/imgs/asquare/c2/karma.png')}}" alt="">
                                     </a>
                                 </div>
-                                <div class="item">
-                                    <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b5.png')}}" alt="">
-                                    </a>
-                                </div>
-                                <div class="item">
-                                    <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b6.png')}}" alt="">
-                                    </a>
-                                </div>
-                                <div class="item">
-                                    <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b7.png')}}" alt="">
-                                    </a>
-                                </div>
-                                <div class="item">
-                                    <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b8.png')}}" alt="">
-                                    </a>
-                                </div>
-                                <div class="item">
-                                    <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b4.png')}}" alt="">
-                                    </a>
-                                </div>
-                                <div class="item">
-                                    <a href="#0" class="img">
-                                        <img src="{{asset('assets/imgs/brands/b5.png')}}" alt="">
-                                    </a>
-                                </div>
+                                
                             </div>
                         </div>
                     </div>
