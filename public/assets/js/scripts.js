@@ -194,10 +194,10 @@ $(function () {
     var parallaxShowCaseOptions = {
         speed: 1500,
         autoplay: {
-            delay: 5000,
+            delay: 3000,
         },
         parallax: true,
-        mousewheel: true,
+        mousewheel: false,
         loop: true,
 
         on: {
